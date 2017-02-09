@@ -35,3 +35,28 @@
         android:layout_height="wrap_content" />
 
 </LinearLayout>
+
+<LinearLayout
+android:id="@+id/linearLayoutAnak"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:orientation="vertical">
+
+</LinearLayout>
+
+<Spinner
+android:id="@+id/spinnerJumlahAnak"
+android:layout_width="match_parent"
+android:layout_height="wrap_content" />
+
+<Button
+android:id="@+id/buttonProses"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:text="Proses" />
+
+<TextView
+android:id="@+id/textViewHasil"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:text="Hasil" /></LinearLayout>
