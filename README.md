@@ -1,6 +1,6 @@
 # AdvancedWidget1
 
-Judul Aplikasi : AdvancedWidget2
+Judul Aplikasi : AdvancedWidget1
 
 Screenshoots :
 
